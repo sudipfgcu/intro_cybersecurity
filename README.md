@@ -96,5 +96,6 @@ This guide provides detailed instructions on how to use EliteWrap to package and
      - What security practices should organizations implement to defend against such threats?
 
 Please submit all screenshots and written responses to the course management platform by the deadline specified.
+## Reference: https://grimthereaperteam.medium.com/how-to-create-the-simple-trojan-fd8303b85a38
 
 ---
