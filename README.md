@@ -79,5 +79,22 @@ This guide provides detailed instructions on how to use EliteWrap to package and
 
    ![Task Manager Screenshot](https://github.com/user-attachments/assets/694746f7-a2a1-4c84-ab2d-4fea81427640)
 
----
+## Step 8: Reflection and Submission
 
+1. **Documentation**:
+   - Attach a screenshot for each of the above steps to document your work process.
+
+2. **Reflection**:
+   - Write a brief reflection on what you learned by creating and using such a Trojan horse.
+   - Discuss the potential impacts if the Trojan were used to distribute malicious programs:
+     - What types of damage could such a Trojan cause?
+     - What personal, organizational, or societal harms might result?
+
+3. **Mitigation Strategies**:
+   - Provide strategies for mitigating the risks associated with Trojan horses. Consider:
+     - How can users protect themselves from unintentionally installing Trojans?
+     - What security practices should organizations implement to defend against such threats?
+
+Please submit all screenshots and written responses to the course management platform by the deadline specified.
+
+---
