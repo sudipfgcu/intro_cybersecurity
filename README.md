@@ -12,7 +12,7 @@ This guide provides detailed instructions on how to use EliteWrap to package and
 ## Step 1: Setup
 
 1. **Download the EliteWrap Software**:
-   - Download `elitewrap.zip` from the provided link.
+   - Download `elitewrap.zip` from the provided link. ( Password is 'p4ssw0rd' )
    - Extract the contents of the zip file to your desired location.
 
 ## Step 2: Prepare Your Environment
